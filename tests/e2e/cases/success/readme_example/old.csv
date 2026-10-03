@@ -1,0 +1,6 @@
+BeginDate,EndDate,Issuer,Country,Sector,Analyst
+,,ACME,USA,Banks,Bob
+,,BLA,FRA,,Emily
+1/1/2024,1/31/2024,CORP,GER,Insurance,
+,,GONE,MEX,,Ann
+,,,USA,,

@@ -1,0 +1,14 @@
+Old: old.csv
+New: new.csv
+
+No differences: the two patches do the same thing.
+
+WARNINGS
+
+Old Patch:
+    Row 2: redundant, rows 3, 4, 5 and 6 overwrite all its values
+        row 2: Issuer='BLA', Country='FRA', Sector='Banks', Price='10'
+        row 3: Issuer='BLA', EndDate=2024-01-09, Country='USA'
+        row 4: Issuer='BLA', BeginDate=2024-01-10, Country='GER'
+        row 5: Issuer='BLA', Sector='Insurance'
+        row 6: Issuer='BLA', Price='20'

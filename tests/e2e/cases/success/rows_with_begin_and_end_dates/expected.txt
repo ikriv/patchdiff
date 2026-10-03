@@ -1,0 +1,7 @@
+Old: old.csv
+New: new.csv
+
+Modified Issuer 'ACME':
+    Changed Country from 'FRA' to 'USA' for 2024-01-20
+    Added Country 'USA' for dates between 2024-01-21 and 2024-01-30
+Modified Issuer 'CORP': Changed Price from '7' to '8' for dates on or after 2024-03-01

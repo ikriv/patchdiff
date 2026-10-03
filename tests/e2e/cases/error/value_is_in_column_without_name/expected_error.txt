@@ -1,0 +1,1 @@
+error: new.csv, row 2: value 'Bob' is in a column that has no name

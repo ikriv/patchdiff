@@ -1,0 +1,18 @@
+Old: old.csv
+New: new.csv
+
+Modified Issuer 'FR':
+    Changed Country from 'USA' to 'FRA' for dates on or after 2024-02-01
+    Added Conviction 'Low' for dates on or after 2024-02-01
+Modified Issuer 'PIPR':
+    Changed Country from 'FRA' to 'USA'
+    Added Conviction 'High'
+
+WARNINGS
+
+Old Patch:
+    Column Conviction has no values and therefore does nothing
+    Column Industry has no values and therefore does nothing
+
+New Patch:
+    Column Industry has no values and therefore does nothing

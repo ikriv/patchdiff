@@ -1,0 +1,10 @@
+Old: old.csv
+New: new.csv
+
+No longer patching Issuer 'CAT': Removed Analyst 'Emily'
+
+WARNINGS
+
+New Patch:
+    Row 2: BeginDate=2024-03-01 is after EndDate=2024-01-01, the row does nothing
+        row 2: Issuer='CAT', BeginDate=2024-03-01, EndDate=2024-01-01, Analyst='Emily'

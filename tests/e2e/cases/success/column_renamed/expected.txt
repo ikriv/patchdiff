@@ -1,0 +1,9 @@
+Old: old.csv
+New: new.csv
+
+Removed column Analyst
+Added column Analyst Name
+
+Modified Issuer 'MSFT':
+    Removed Analyst 'Bob'
+    Added Analyst Name 'Bob'

@@ -1,0 +1,4 @@
+Old: old.csv
+New: new.csv
+
+No differences: the two patches do the same thing.

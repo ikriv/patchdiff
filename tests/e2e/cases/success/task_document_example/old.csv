@@ -1,0 +1,5 @@
+Issuer,BeginDate,EndDate,Analyst,Sector
+MSFT,,,Bob,Information Technology
+CAT,1/1/2024,,Emily,
+TSLA,,,,Consumer Discretionary
+AMT,1/1/2024,1/31/2024,Bob,Real Estate

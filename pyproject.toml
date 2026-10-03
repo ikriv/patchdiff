@@ -1,0 +1,15 @@
+[project]
+name = "patchdiff"
+version = "0.1.0"
+description = "Human readable diff of two patch CSV files"
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools]
+packages = ["patchdiff", "patchdiff.model"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

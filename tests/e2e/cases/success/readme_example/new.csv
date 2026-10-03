@@ -1,0 +1,10 @@
+BeginDate,EndDate,Issuer,Country,Sector,Conviction
+,,ACME,USA,Banks,High
+,1/9/2024,ACME,FRA,,
+1/20/2024,1/20/2024,ACME,CAN,,
+1/10/2024,1/15/2024,ACME,,Insurance,
+2/1/2024,,BLA,FRA,,
+1/1/2024,1/31/2024,CORP,GER,Insurance,
+2/1/2024,,CORP,,Banks,
+3/1/2024,1/1/2024,GONE,MEX,,
+,,NEWCO,USA,,Low

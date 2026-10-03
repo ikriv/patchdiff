@@ -1,0 +1,10 @@
+Old: old.csv
+New: new.csv
+
+No longer patching Issuer 'FR': Removed Country 'FRA'
+No longer patching Issuer 'JBL': Removed Country 'USA'
+
+WARNINGS
+
+New Patch:
+    Column Country has no values and therefore does nothing

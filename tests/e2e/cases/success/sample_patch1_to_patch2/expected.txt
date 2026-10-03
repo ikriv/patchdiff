@@ -1,0 +1,14 @@
+Old: old.csv
+New: new.csv
+
+Added column Analyst
+
+Modified Issuer 'FR': Added Analyst 'Bob' for dates on or after 2024-02-01
+
+WARNINGS
+
+Old Patch:
+    Column Industry has no values and therefore does nothing
+
+New Patch:
+    Column Industry has no values and therefore does nothing

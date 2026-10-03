@@ -1,0 +1,10 @@
+Old: old.csv
+New: new.csv
+
+Added column Dead
+
+WARNINGS
+
+New Patch:
+    Row 3: Issuer is blank, the row does nothing
+        row 3: Issuer='', Country='FRA', Dead='x'

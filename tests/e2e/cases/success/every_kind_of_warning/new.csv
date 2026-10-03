@@ -1,0 +1,10 @@
+BeginDate,EndDate,Issuer,Country,Sector,Dead
+,,AAA,USA,Banks,
+,,AAA,FRA,,
+20240110,20240120,AAA,GER,Insurance,
+,,,USA,,x
+,,BBB,,,
+,,CCC,USA,,
+,,CCC,FRA,,
+,,CCC,GER,,
+20240301,20240201,DDD,USA,,y

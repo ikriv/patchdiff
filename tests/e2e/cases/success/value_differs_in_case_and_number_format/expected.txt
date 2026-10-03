@@ -1,0 +1,6 @@
+Old: old.csv
+New: new.csv
+
+Modified Issuer 'JBL':
+    Changed Analyst from 'Bob' to 'bob'
+    Changed Price from '1' to '1.0'

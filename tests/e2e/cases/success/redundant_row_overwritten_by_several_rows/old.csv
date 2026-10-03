@@ -1,0 +1,6 @@
+BeginDate,EndDate,Issuer,Country,Sector,Price
+,,BLA,FRA,Banks,10
+,1/9/2024,BLA,USA,,
+1/10/2024,,BLA,GER,,
+,,BLA,,Insurance,
+,,BLA,,,20

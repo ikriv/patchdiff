@@ -1,0 +1,1 @@
+error: key columns differ: 'Issuer' in old.csv, 'Ticker' in new.csv

@@ -1,0 +1,28 @@
+Old: old.csv
+New: new.csv
+
+Added column Dead
+
+Modified Issuer 'AAA':
+    Changed Country from 'USA' to 'FRA' for dates on or before 2024-01-09
+    Changed Country from 'USA' to 'GER' for dates between 2024-01-10 and 2024-01-20
+    Changed Country from 'USA' to 'FRA' for dates on or after 2024-01-21
+    Changed Sector from 'Banks' to 'Insurance' for dates between 2024-01-10 and 2024-01-20
+Now patching Issuer 'CCC': Added Country 'GER'
+
+WARNINGS
+
+New Patch:
+    Row 5: Issuer is blank, the row does nothing
+        row 5: Issuer='', Country='USA', Dead='x'
+    Row 6: no values, the row does nothing
+        row 6: Issuer='BBB' (all empty)
+    Row 7: redundant, rows 8 and 9 overwrite all its values
+        row 7: Issuer='CCC', Country='USA'
+        row 8: Issuer='CCC', Country='FRA'
+        row 9: Issuer='CCC', Country='GER'
+    Row 8: redundant, row 9 overwrites all its values
+        row 8: Issuer='CCC', Country='FRA'
+        row 9: Issuer='CCC', Country='GER'
+    Row 10: BeginDate=2024-03-01 is after EndDate=2024-02-01, the row does nothing
+        row 10: Issuer='DDD', BeginDate=2024-03-01, EndDate=2024-02-01, Country='USA', Dead='y'

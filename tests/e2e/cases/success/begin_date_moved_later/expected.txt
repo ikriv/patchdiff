@@ -1,0 +1,4 @@
+Old: old.csv
+New: new.csv
+
+Modified Issuer 'CAT': Removed Analyst 'Emily' for dates between 2024-01-01 and 2024-01-31

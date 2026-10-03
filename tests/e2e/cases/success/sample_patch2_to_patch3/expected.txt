@@ -1,0 +1,12 @@
+Old: old.csv
+New: new.csv
+
+Now patching Issuer 'IBM': Added Conviction 'Low' for dates on or after 2024-03-01
+
+WARNINGS
+
+Old Patch:
+    Column Industry has no values and therefore does nothing
+
+New Patch:
+    Column Industry has no values and therefore does nothing

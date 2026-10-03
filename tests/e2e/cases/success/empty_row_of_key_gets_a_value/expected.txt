@@ -1,0 +1,11 @@
+Old: old.csv
+New: new.csv
+
+Now patching Issuer 'TSLA': Added Analyst 'Emily'
+
+WARNINGS
+
+Old Patch:
+    Row 2: no values, the row does nothing
+        row 2: Issuer='TSLA' (all empty)
+    Column Analyst has no values and therefore does nothing

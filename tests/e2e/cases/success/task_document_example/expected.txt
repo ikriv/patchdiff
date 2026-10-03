@@ -1,0 +1,8 @@
+Old: old.csv
+New: new.csv
+
+Now patching Issuer 'IRM':
+    Added Analyst 'Emily'
+    Added Sector 'Real Estate'
+Modified Issuer 'MSFT': Changed Analyst from 'Bob' to 'Mike'
+Modified Issuer 'TSLA': Added Analyst 'Bob'
